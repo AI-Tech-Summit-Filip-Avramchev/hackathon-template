@@ -3,14 +3,14 @@
 Welcome. This organisation belongs to the **AI Student Hackathon**, part of
 **AI Tech Summit "Filip Avramchev" 2026** in Skopje — [techsummit.ai](https://techsummit.ai/).
 
-Ten teams, five days, one theme:
+~17 teams, five days, one theme:
 
 > **Go green. Be helpful. Build something the community can use.**
 
-You build a real project — not a slide deck — and on **22 September** you present it to a jury.
-The three best teams present again on the **Main Stage on 23 September**.
+You build a real project — not a slide deck — and on **22 September** your repo at 15:00 goes read-only mode.
+Make sure you will commit all changes before that, codebase, documentation, recordings, everything that is part of the project.
 
-Hackathon partner: **IWConnect**.
+The three best teams present again on the **Main Stage on 23 September**.
 
 ---
 
