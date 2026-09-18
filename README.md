@@ -3,7 +3,7 @@
 Welcome. This organisation belongs to the **AI Student Hackathon**, part of
 **AI Tech Summit "Filip Avramchev" 2026** in Skopje — [techsummit.ai](https://techsummit.ai/).
 
-~17 teams, five days, one theme:
+~16 teams, five days, one theme:
 
 > **Go green. Be helpful. Build something the community can use.**
 
